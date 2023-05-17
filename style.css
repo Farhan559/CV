@@ -1,0 +1,76 @@
+#Dp{
+    border-radius: 50%;
+    border: 2px solid ;
+    margin-left: 3%;
+    
+    
+}
+#top{
+    padding: 20px;
+    background-color:#545b69;
+}
+#heading{
+    font-size: 60px;
+    font-style: tahoma;
+    margin-top: 10px;
+}
+#name{
+    color: #ffff;
+    font-size: 20px;
+    padding-left: 22%;
+    margin-top: -10%;
+    margin-left: 5%;
+    background-color:#545b69;
+    line-height: 10px;
+  
+}
+#about{
+    color: #ffff;
+    width: 20%;
+    margin-top: -10%;
+    margin-left: 3%;
+}
+.about-self{
+    text-align: justify;
+
+}
+#Exp{
+    margin-left: 4%;
+
+}
+#Ex-Detail{
+            margin-left: 25%;
+            margin-top: -12%;
+}
+#prof{
+    color: blue;
+    margin-left: 4%;
+    
+}
+#Prof-skills{
+    margin-left: 25%;
+    margin-top: -25.5%;
+
+
+
+}
+#Hobbies{
+        margin-left: 25%;
+        margin-top: 7%;
+
+}
+.fa-book,.fa-laptop-code,.fa-facebook,.fa-instagram,.fa-whatsapp{
+    font-size: 50px;
+    border-radius: 50%;
+    border: 2px solid black;
+    padding: 10px;
+    margin-left: 70px;
+
+}
+p{
+    font-size: large;
+}
+#file{
+    margin-left: 20px;
+    padding: 10px;
+}
